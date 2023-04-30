@@ -10,7 +10,7 @@
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=gabrielmartinsss&theme=tokyonight&show_icons=true">
 </p>
 
-<h2 align="center">Estudando</h2>
+<h2 align="center">Coming soon</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
