@@ -6,8 +6,12 @@
   </a>
 </p>
 
-<p href="https://discord.gg/onlp" align="center">
-    <img alt="" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielmartinsss&theme=tokyonight&show_icons=true">
+<p align="center">
+  <img alt="" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielmartinsss&theme=tokyonight&show_icons=true">
+</p>
+
+<p align="center">
+  <img alt="" src='https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmartinsss&theme=tokyonight&layout=compact'>
 </p>
 
 <h2 align="center">Coming soon</h2>
