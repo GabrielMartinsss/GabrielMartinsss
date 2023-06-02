@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react" />
   </a>
 </p>
 
@@ -14,6 +14,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,tailwind,mongodb,sequelize,nodejs" />
+    <img src="https://skillicons.dev/icons?i=tailwind,mongodb,sequelize,nodejs" />
   </a>
 </p>
