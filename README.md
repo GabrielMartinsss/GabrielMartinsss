@@ -5,18 +5,9 @@
 
 Olá, sou um desenvolvedor web FullStack com maior desenvoltura no Front-end. Minha experiência com desenvolvimento de software, me permite criar interfaces de usuário envolventes e funcionais, e integração eficientemente do Front-end com Back-end. Estou entusiasmado com a oportunidade de trazer minha determinação e paixão, contribuindo para o sucesso contínuo de projetos inovadores. Vamos criar algo incrível juntos!
 
-
-<p align="left">
-  <a href="https://portifolio-gabriel-martins.vercel.app" title="Portifolio">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portifolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-martins-228108190/" title="LinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/gabriel_kmartins/" title="Instagram">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portifolio"/>](https://portifolio-gabriel-martins.vercel.app)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/gabriel-martins-228108190/)
+[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>](https://www.instagram.com/gabriel_kmartins/)
 
 ## Skill
 
