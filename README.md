@@ -13,9 +13,10 @@ Olá, sou um desenvolvedor web FullStack com maior desenvoltura no Front-end. Mi
 
 <p align="left" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,nodejs,html,css" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,tailwind,nodejs,redux,docker,postgresql,html,css" />
   </a>
 </p>
+ReactJS, Typescript, Javascript, Next.js, Tailwindcss, Node.js, Redux, Docker, PostgreSQL, HTML, CSS
 
 ## Coming soon
 
