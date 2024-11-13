@@ -21,7 +21,7 @@ ReactJS, Typescript, Javascript, Next.js, Tailwindcss, Node.js, Redux, Docker, P
 
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,sequelize,docker" />
+  <img src="https://skillicons.dev/icons?i=mongodb,sequelize,angular,jest" />
 </a>
 
 
